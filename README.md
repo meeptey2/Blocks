@@ -10,3 +10,8 @@ A.  ¯\_(ツ)_/¯
 Q. What engine is this made in?
 
 A. Unity.
+
+# Origins
+
+This was a project I made so people could learn off of my code.
+The first block part was a pink square.
